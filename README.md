@@ -1,5 +1,9 @@
 # Aspiring, curious and enthusiastic developer
 
+I am currently learning learning Rust and applying it in command line utilitaries, libraries and web projects. Mixing and matching technologies in unusual forms is my current target both for learning more in depth concepts and providing proofs of concept.
+
+From time to time I also practice algorithms and competitive programming.
+
 ## Most preferred languages, frameworks and tools
 
 [![Rust badge](https://img.shields.io/badge/rust-a?logo=rust&color=%23000000)](https://www.rust-lang.org/)
@@ -9,91 +13,73 @@
 [![Yew badge](https://img.shields.io/badge/yew-lime?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iNzUiIGhlaWdodD0iODIiIHZpZXdCb3g9IjAgMCA3NSA4MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzgiIGN5PSI0MCIgcj0iMjUiIGZpbGw9IiNCM0UxQ0UiLz4KPHBhdGggZD0iTTM4LjIzNzMgNDEuMDMzOUwxNCAxNCIgc3Ryb2tlPSIjNDQ0NDQ0IiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMzguMjM3MyA0MS4wMzM5TDYyLjQ3NDYgMTQiIHN0cm9rZT0iIzQ0NDQ0NCIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTM4LjIzNzMgNDEuMDMzOUwzOC4yMzczIDY5IiBzdHJva2U9IiM0NDQ0NDQiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BCjxjaXJjbGUgY3g9IjM4IiBjeT0iNDEiIHI9IjciIGZpbGw9IiMwMDlBNUIiIHN0cm9rZT0iIzQ0NDQ0NCIgc3Ryb2tlLXdpZHRoPSI0Ii8%2BCjwvc3ZnPgo%3D&color=%231b1b1d)](https://yew.rs/)
 [![Cargo badge](https://img.shields.io/badge/cargo-a?logoColor=ffffff&color=%23ffc933)](https://github.com/rust-lang/cargo)
 [![Crates badge](https://img.shields.io/badge/crates-a?logoColor=ffffff&color=%23ffc933)](https://crates.io/)
-
+̅
 [![Python badge](https://img.shields.io/badge/python-a?logo=python&logoColor=ffffff&color=blue)](https://www.python.org/)
 [![Flask badge](https://img.shields.io/badge/flask-blue?logo=flask&color=%23000000)](https://flask.palletsprojects.com/en/2.3.x/)
 [![Beautiful Soup Badge](https://img.shields.io/badge/beautiful%20soup-a?logoColor=ffffff)](https://beautiful-soup-4.readthedocs.io/en/latest/)
 [![Pip badge](https://img.shields.io/badge/pip-a?logoColor=ffffff&color=ffffff)](https://pip.pypa.io/en/stable/installation/)
 [![Pypi badge](https://img.shields.io/badge/pypi-a?logo=pypi&logoColor=ffffff&color=%233775A9)](https://pypi.org/)
-
+̅
 [![C++ badge](https://img.shields.io/badge/c%2B%2B-a?logo=c%2B%2B&color=%2300599C)](https://en.cppreference.com/w/)
 [![Qt badge](https://img.shields.io/badge/qt-a?logo=qt&logoColor=ffffff&color=%2341CD52)](https://www.qt.io/)
 [![Gtest badge](https://img.shields.io/badge/gtest-blue?logo=google&logoColor=%23ffffff&color=%234285F4)](https://google.github.io/googletest/)
-[![Static Badge](https://img.shields.io/badge/cmake-a?logo=cmake&logoColor=ffffff&color=%23064F8C)](https://cmake.org/)
+[![CMake Badge](https://img.shields.io/badge/cmake-a?logo=cmake&logoColor=ffffff&color=%23064F8C)](https://cmake.org/)
 [![Makefile badge](https://img.shields.io/badge/make-a?logo=gnu&logoColor=ffffff&color=%23A42E2B)](https://www.gnu.org/software/make/)
 [![Lcov badge](https://img.shields.io/badge/lcov-a?logo=lcov&logoColor=ffffff&color=ffffff)](https://github.com/linux-test-project/lcov)
 [![Gprof badge](https://img.shields.io/badge/gprof-a?logo=gnu&logoColor=ffffff&color=%23A42E2B)](https://sourceware.org/binutils/docs/gprof/)
-
+̅
 ![HTML badge](https://img.shields.io/badge/html-a?logo=html5&logoColor=ffffff&color=%23E34F26)
 ![CSS badge](https://img.shields.io/badge/css-a?logo=css3&logoColor=ffffff&color=%231572B6)
 ![Javascript badge](https://img.shields.io/badge/javascript-a?logo=javascript&logoColor=000000&color=%23F7DF1E)
-
+̅
 ![Java badge](https://img.shields.io/badge/java-blue?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNOTksMzhjLTkuMSw2LjQxLTE5LjQyLDEzLjY2LTI1LDI1LjY3LTkuNiwyMSwxOS42NSw0My44LDIwLjksNDQuNzZhMS42NSwxLjY1LDAsMCwwLDEsLjM0LDEuNTgsMS41OCwwLDAsMCwxLS4zOCwxLjYsMS42LDAsMCwwLC40LTJjLS4xLS4yMS0xMC42LTIwLjYtMTAuMjEtMzUuMjMuMTMtNS4xLDcuMjctMTAuODgsMTQuODItMTcsNi45MS01LjYxLDE0Ljc1LTEyLDE5LjM0LTE5LjM5LDEwLjA2LTE2LjM3LTEuMTMtMzIuNDUtMS4yNC0zMi42MWExLjYyLDEuNjIsMCwwLDAtMi45LDEuMjcsMzQuMzMsMzQuMzMsMCwwLDEtMy44NSwyMS43MUMxMTAuODUsMjkuNjcsMTA1LjM3LDMzLjUzLDk5LDM4WiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEzNy4zOCw0NS4yMWExLjYxLDEuNjEsMCwwLDAsLjQ0LTIuMDcsMS42LDEuNiwwLDAsMC0yLS43M0MxMzQuMjksNDMsOTgsNTcsOTgsNzMuOTJjMCwxMS42Niw1LDE3LjgyLDguNjIsMjIuMzJhMTcuMTUsMTcuMTUsMCwwLDEsMy4wNyw0LjU5YzEuMTQsMy43NS0xLjU3LDEwLjUzLTIuNzEsMTIuODJhMS42MiwxLjYyLDAsMCwwLDIuMzcsMmMuNjMtLjQ0LDE1LjI3LTEwLjc5LDEyLjY0LTIzLjI2LTEtNC43NC0zLjMxLTguMi01LjM2LTExLjI2LTMuMTktNC43My01LjQ4LTguMTUtMi0xNC40N0MxMTguNjgsNTkuMzQsMTM3LjE5LDQ1LjM1LDEzNy4zOCw0NS4yMVoiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik00Mi44MiwxMTYuMjVhNS43Myw1LjczLDAsMCwwLC44NSw1LjM1YzMuOTQsNS40NywxNy44OSw4LjQ4LDM5LjI4LDguNDhoMGMyLjksMCw2LS4wNiw5LjEtLjE3LDM0LjItMS4yMiw0Ni44OC0xMS44OCw0Ny40MS0xMi4zM0ExLjYyLDEuNjIsMCwwLDAsMTM4LDExNC44Yy0xMiwzLjI5LTM0LjUzLDQuNDYtNTAuMTMsNC40Ni0xNy40NiwwLTI2LjM1LTEuMjYtMjguNTMtMi4xOSwxLjEyLTEuNTMsOC00LjI3LDE2LjU0LTUuOTVhMS42MSwxLjYxLDAsMCwwLS4zMS0zLjJDNzAuNTQsMTA3LjkyLDQ1LjQ1LDEwOC4zMiw0Mi44MiwxMTYuMjVaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTU3LjI3LDEwNS4yOGMtNy4wNiwwLTEzLjc1LDMuNTQtMTQsMy42OWExLjYxLDEuNjEsMCwwLDAsLjc2LDNjLjE1LDAsMTUuMDUuMTMsMTYuNCw4LjY0LDEuMTksNy4zNC0xNC4xLDE5LjI0LTIwLjA5LDIzLjJhMS42MiwxLjYyLDAsMCwwLC44OSwzLDIsMiwwLDAsMCwuMzQsMGMxLjQyLS4zLDM0Ljc5LTcuNjYsMzEuMjYtMjcuMDhDMTcwLjY1LDEwNy43OCwxNjMuMTYsMTA1LjI4LDE1Ny4yNywxMDUuMjhaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTM0LjM4LDE0MS40N2ExLjYsMS42LDAsMCwwLS42Ni0xLjYybC04LTUuNjFhMS42MywxLjYzLDAsMCwwLTEuMzQtLjIzLDE1Ny42NCwxNTcuNjQsMCwwLDEtMjAuNiwzLjU3LDE0My4xMSwxNDMuMTEsMCwwLDEtMTUuNjEuODJjLTEyLjE1LDAtMjAuMDktMS40Mi0yMS4yNS0yLjQ3LS4xNS0uMy0uMS0uNDMtLjA3LS41YTQuMDYsNC4wNiwwLDAsMSwyLjA2LTEuNTYsMS42MSwxLjYxLDAsMCwwLS45NC0zLjA4Yy04LDEuOTQtMTEuOTUsNC42NC0xMS42Niw4LjA1LjUsNiwxNC40OCw5LjEzLDI2LjMsOS45NSwxLjcuMTIsMy41NC4xOCw1LjQ3LjE4aDBjMTkuNjUsMCw0NC44NS02LjE3LDQ1LjEtNi4yM0ExLjYsMS42LDAsMCwwLDEzNC4zOCwxNDEuNDdaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNzQuMDYsMTU0LjQyYTEuNTksMS41OSwwLDAsMCwuNjYtMS44MywxLjY0LDEuNjQsMCwwLDAtMS41OC0xLjE0Yy0xLjA4LDAtMTAuNTMuNDYtMTEuMTksNi40OGE2LjI4LDYuMjgsMCwwLDAsMS41Myw0Ljg4YzMuNCw0LDEyLjU1LDYuNDEsMjgsNy4zLDEuODIuMTEsMy42OC4xNyw1LjUxLjE3LDE5LjYzLDAsMzIuODYtNi4xNSwzMy40MS02LjQxYTEuNjIsMS42MiwwLDAsMCwuMTUtMi44NGwtMTAuMTEtNi4xN2ExLjYxLDEuNjEsMCwwLDAtMS4xNy0uMjFjLS4wNiwwLTYuNDgsMS4zNS0xNi4xNywyLjY3YTU0LjA4LDU0LjA4LDAsMCwxLTYuODMuMzdjLTkuNjcsMC0yMC40NC0xLjU4LTIyLjUtMi42MkEuNjQuNjQsMCwwLDEsNzQuMDYsMTU0LjQyWiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTg3Ljg0LDE4OC44NGM0NSwwLDY5LjExLTgsNzMuNzYtMTMuMDdhNS41OSw1LjU5LDAsMCwwLDEuNjgtNC41Nyw3LjA3LDcuMDcsMCwwLDAtMy4wOS00LjU1LDEuNjQsMS42NCwwLDAsMC0yLjExLjI5LDEuNTksMS41OSwwLDAsMCwwLDIuMWMuMjguMzcuNDUsMS0uMzgsMS44MS0xLjg2LDEuNzMtMjAuNjEsNy01MS44Miw4LjU5LTQuMjguMjItOC43Ni4zMy0xMy4zMy4zMy0yNy45NSwwLTQ4LjQtMy44My01MS4wOS02LjA2LDEtMS40OCw4LjI3LTMuODYsMTYtNS4yYTEuNjEsMS42MSwwLDAsMC0uNS0zLjE5Yy0uMjEsMC0xLC4wNy0xLjguMTItMTIuNy43OC0yNy4zNywyLjUtMjguMTMsOS4wNWE2LjY1LDYuNjUsMCwwLDAsMS43Niw1LjM3YzMuNDMsMy44NSwxMy4yOCw5LDU5LjA5LDlaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTcwLjQzLDE3Ny4xOWExLjYsMS42LDAsMCwwLTEuODYuMzZjLS4wNy4wNy02LjgzLDcuMTQtMjcuMTYsMTEuM0MxMzMuNjMsMTkwLjQxLDExOSwxOTEuMiw5OCwxOTEuMnMtNDEuMTEtLjgzLTQxLjMxLS44NGExLjYxLDEuNjEsMCwwLDAtLjQ0LDMuMThjLjIxLjA1LDIxLjIyLDUsNDkuOTQsNUEyMzIuNjYsMjMyLjY2LDAsMCwwLDE0NiwxOTUuMTljMjMuNjEtNC4xNCwyNS4yNi0xNS44NSwyNS4zMi0xNi4zNUExLjYsMS42LDAsMCwwLDE3MC40MywxNzcuMTlaIi8+PC9zdmc+&logoColor=%23ffffff&color=db380e)
 ![Springboot badge](https://img.shields.io/badge/springboot-a?logo=springboot&logoColor=ffffff&color=%236DB33F)
 [![Maven badge](https://img.shields.io/badge/maven-a?logo=apachemaven&logoColor=ffffff&color=%23C71A36)](https://maven.apache.org/)
-
+̅
 ![Php Badge](https://img.shields.io/badge/php-a?logo=php&logoColor=ffffff&color=%23777BB4)
-
+̅
 ![Bash Badge](https://img.shields.io/badge/bash-a?logo=gnubash&logoColor=ffffff&color=%234EAA25)
+̅
+![Lua Badge](https://img.shields.io/badge/lua-a?logo=lua&logoColor=white&labelColor=%232C2D72&color=%232C2D72)
+̅
+![Kotlin Badge](https://img.shields.io/badge/kotlin-a?logo=kotlin&logoColor=white&labelColor=%237F52FF&color=%237F52FF)
 
 ## Most preferred editors/IDEs and tools
 
-### General purpose/text editors
-
-![VSCode badge](https://img.shields.io/badge/vscode-blue?logo=visualstudiocode&logoColor=%23ffffff&color=%23007ACC)
+![VSCodium Badge](https://img.shields.io/badge/vscodium-red?logo=vscodium&logoColor=white&labelColor=%232F80ED&color=%232F80ED)
 ![Vim badge](https://img.shields.io/badge/vim-blue?logo=vim&logoColor=%23ffffff&color=%23019733)
-
-### Language specific IDEs
-
 ![Visual Studio badge](https://img.shields.io/badge/visual%20studio-blue?logo=visualstudio&logoColor=%23ffffff&color=%235C2D91)
-
-### Source code repository hosting
-
+̅
 ![Github Badge](https://img.shields.io/badge/github-a?logo=github&logoColor=ffffff&color=%23181717)
 ![Bitbucket Badge](https://img.shields.io/badge/bitbucket-a?logo=bitbucket&logoColor=ffffff&color=%230052CC)
-
-### Writing technical documentations/diagrams
-
+̅
 ![Latex Badge](https://img.shields.io/badge/latex-a?logo=latex&logoColor=ffffff&color=%23008080)
 [![Mermaid Badge](https://img.shields.io/badge/mermaid-a?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI%2BCjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQ5MSA0OTEiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI%2BCiAgICA8IS0tIDxwYXRoIGQ9Ik00OTAuMTYsODQuNjFDNDkwLjE2LDM3LjkxMiA0NTIuMjQ4LDAgNDA1LjU1LDBMODQuNjEsMEMzNy45MTIsMCAwLDM3LjkxMiAwLDg0LjYxTDAsNDA1LjU1QzAsNDUyLjI0OCAzNy45MTIsNDkwLjE2IDg0LjYxLDQ5MC4xNkw0MDUuNTUsNDkwLjE2QzQ1Mi4yNDgsNDkwLjE2IDQ5MC4xNiw0NTIuMjQ4IDQ5MC4xNiw0MDUuNTVMNDkwLjE2LDg0LjYxWiIgc3R5bGU9ImZpbGw6cmdiKDI1NSw1NCwxMTIpOyIvPiAtLT4KICAgIDxwYXRoIGQ9Ik00MDcuNDgsMTExLjE4QzMzNS41ODcsMTA4LjEwMyAyNjkuNTczLDE1Mi4zMzggMjQ1LjA4LDIyMEMyMjAuNTg3LDE1Mi4zMzggMTU0LjU3MywxMDguMTAzIDgyLjY4LDExMS4xOEM4MC4yODUsMTY4LjIyOSAxMDcuNTc3LDIyMi42MzIgMTU0Ljc0LDI1NC44MkMxNzguOTA4LDI3MS40MTkgMTkzLjM1LDI5OC45NTEgMTkzLjI3LDMyOC4yN0wxOTMuMjcsMzc5LjEzTDI5Ni45LDM3OS4xM0wyOTYuOSwzMjguMjdDMjk2LjgxNiwyOTguOTUzIDMxMS4yNTUsMjcxLjQyIDMzNS40MiwyNTQuODJDMzgyLjU5NiwyMjIuNjQ0IDQwOS44OTIsMTY4LjIzMyA0MDcuNDgsMTExLjE4WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8%2BCjwvc3ZnPgo%3D&logoColor=ffffff&color=%23bd34fe)](https://mermaid.js.org/)
-
-### CI/CD
-
+̅
 ![Github Actions Badge](https://img.shields.io/badge/github%20actions-a?logo=githubactions&logoColor=ffffff&color=%232088FF)
 ![Jenkins Badge](https://img.shields.io/badge/jenkins-a?logo=jenkins&logoColor=ffffff&color=%23D24939)
-
-### Productivity
-
+̅
 [![Obsidian badge](https://img.shields.io/badge/obsidian-a?logo=obsidian&logoColor=ffffff&color=%237C3AED)](https://obsidian.md/)
 [![Microsoft Devtoys Badge](https://img.shields.io/badge/devtoys-a?logoColor=ffffff&color=%23642aa2)](https://devtoys.app/)
 [![Microsoft Powertoys Badge](https://img.shields.io/badge/powertoys-a?logoColor=ffffff&color=%23e8dcc1)](https://github.com/microsoft/PowerToys)
-
+̅
 ![Postman badge](https://img.shields.io/badge/postman-blue?logo=postman&logoColor=%23ffffff&color=%23FF6C37)
 ![Git badge](https://img.shields.io/badge/git-blue?logo=git&logoColor=%23ffffff&color=%23F05032)
-
+̅
 ![Jira badge](https://img.shields.io/badge/jira-blue?logo=jira&logoColor=%23ffffff&color=%230052CC)
 
 ## Others
 
-### Operating systems
-
 ![Ubuntu badge](https://img.shields.io/badge/ubuntu-blue?logo=ubuntu&logoColor=%23ffffff&color=%23E95420)
 ![Kali Linux badge](https://img.shields.io/badge/kali-blue?logo=kalilinux&logoColor=%23ffffff&color=%23557C94)
-
 ![Windows Badge](https://img.shields.io/badge/windows-a?logo=windows&logoColor=ffffff&color=%230078D4)
-
-### Deployment
-
+̅
 ![Linode badge](https://img.shields.io/badge/linode-blue?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4zLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyMDAgMjAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBkPSJNMTcuMywxOC4yQzMzLjUsMTIuNSw1MC41LDYuNSw2Ny4xLDIuOWMxMS4zLDUuNCwyMi43LDEwLjksMzQsMTYuNGMwLjUsMC4zLDEuMSwxLjEsMS4xLDEuN2MwLjgsMTYuNSwxLjUsMzMsMi4xLDQ5LjYNCgljLTAuNiwzLjUtOS45LDYuMS0xMi45LDguM2MwLjQsMi41LDEzLjYsOCwxMy44LDExLjFjMC4zLDQsMC40LDguMSwwLjYsMTIuMWMwLDAuMSwwLjYsMC40LDAuNywwLjRjMTQuNi03LjcsOS4zLTExLDIzLTEuNw0KCWMwLjQtMy44LDAuMS03LjYsMC40LTExLjRjMC0wLjYsMC40LTEuNCwwLjktMS43YzcuMy00LjUsMTQuNi05LDIyLTEzLjVjMC41LTAuMywxLjQtMC4zLDEuOCwwYzguNiw0LjcsMTcuMiw5LjUsMjUuOCwxNC4yDQoJYzEuMSwwLjYsMS40LDEuMywxLjMsMi41Yy0xLjgsOS4xLTEuNSwxOS4xLTQuNCwyNy44Yy02LjgsNS40LTEzLjUsMTAuOC0yMC4zLDE2LjJjLTMuMSwxLjEtNi4zLTMuNC05LjEtNC43DQoJYy0xLjgsMS0wLjEsMTEuOC0yLjEsMTMuNmMtOC40LDYuNy0xNi43LDEzLjQtMjUuMiwyMGMtMy4xLDEuMy05LjQtNy0xMi41LTguNmMwLDUuNywwLjUsMTEuNCwwLjYsMTcuMWMwLDAuNS0wLjIsMS4xLTAuNiwxLjQNCgljLTEwLjgsOC42LTIxLjYsMTcuMy0zMi40LDI1LjhoLTAuNWMtOC43LTkuMS0xNy44LTE4LjItMjUuOS0yNy44Yy0yLjEtOS44LTQuMS0xOS42LTYuMS0yOS41Yy0wLjEtMC41LDAuMy0xLjMsMC43LTEuNg0KCWMxLjItMS4yLDYtMi44LDUuOS00LjRjLTMuMS0zLjQtNy40LTYuMS05LjktMTBjLTIuNi0xMi43LTUuMy0yNS4zLTcuOC0zOGMtMC40LTMsMTAuMy00LjcsMTAuNC02LjljLTQuNi00LjEtMTAuNC03LjItMTQuMy0xMS44DQoJQzI0LjUsNTIuNSwyMC44LDM1LjMsMTcuMywxOC4yeiBNMTAyLjMsNjkuNmwtMC41LTAuNGMtMC4yLTExLjYtMC45LTIzLjEtMS4zLTM0LjZjLTAuMi0zLjgtMC4zLTcuNi0wLjUtMTEuNA0KCWMwLTAuMi0wLjUtMC43LTAuNy0wLjZDODQuMiwyOC4yLDY5LjIsMzQsNTQuMiwzOS44Yy0wLjMsMC4xLTAuNywwLjgtMC42LDEuMmMyLjksMTYuNiw0LjEsMzQuOCw4LDUwLjcNCglDNzQuOSw4NCw4OS45LDc4LjQsMTAyLjMsNjkuNnogTTEwNC40LDEyNi42Yy0wLjctMTEuNS0xLTIzLTEuNi0zNC41YzAtMC4xLTAuNS0wLjQtMC42LTAuM2MtMTIuNiw3LjEtMjUuMiwxNC4zLTM3LjcsMjEuNQ0KCWMwLjQsMTEuOSwzLjYsMjQuNCw0LjksMzYuNWMwLDAuMiwwLjYsMC40LDAuOCwwLjNDODEuNSwxNDIuMiw5My43LDEzNS4xLDEwNC40LDEyNi42TDEwNC40LDEyNi42eiBNMTA2LjMsMTcxLjYNCgljLTAuNS04LjgtMC43LTE3LTEuMi0yNS44YzAtMC4xLTAuNC0wLjMtMC41LTAuM2MtMTAuNiw4LTIyLjMsMTUuMi0zMi40LDIzLjZjMS4zLDguNywyLjYsMTcuNSwzLjksMjYuMmMwLDAuMSwwLjYsMC4zLDAuNywwLjINCglDODYuNSwxODcuNSw5Ny4zLDE4MC4yLDEwNi4zLDE3MS42TDEwNi4zLDE3MS42eiBNMTIwLjQsMTUwLjloMC4yYzAuMSwzLjItMC4xLDYuNCwwLjEsOS42YzcuOC01LjksMTUuMy0xMi4yLDIyLjktMTguMg0KCWMxLjctOC4yLDEuMi0xNy40LDItMjZjLTguNCw1LjctMTYuNSwxMS44LTI0LjcsMTcuNkMxMTkuNywxMzkuMiwxMjAuOCwxNDUuNCwxMjAuNCwxNTAuOUwxMjAuNCwxNTAuOXogTTE1Ny4yLDEzMC45DQoJYzAsMC4xLDAsMC4zLDAsMC42YzIzLjUtMTguNiwxNy40LTkuNCwyMS42LTM4LjlDMTUzLjksMTEwLjYsMTYwLjQsMTAwLjUsMTU3LjIsMTMwLjl6Ii8+DQo8L3N2Zz4NCg==&logoColor=%23ffffff&color=%231eac57)
 ![Amazon ec2 Badge](https://img.shields.io/badge/amazon%20ec2-a?logo=amazonec2&logoColor=ffffff&color=%23FF9900)
-
 ![Nginx badge](https://img.shields.io/badge/nginx-blue?logo=nginx&logoColor=%23ffffff&color=%23009639)
-
-### Databases
-
+̅
 ![Postgres badge](https://img.shields.io/badge/postgres-blue?logo=postgresql&logoColor=%23ffffff&color=%234169E1)
 ![Mysql Badge](https://img.shields.io/badge/mysql-a?logo=mysql&logoColor=ffffff&color=%234479A1)
-
 ![Cassadra badge](https://img.shields.io/badge/cassandra-blue?logo=apachecassandra&logoColor=%23ffffff&color=%231287B1)
 
 ### Leetcode problems solved
